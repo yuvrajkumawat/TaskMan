@@ -1,13 +1,13 @@
 # 📝 TaskBuddy - Task Management Application
 
-## 📌 Project Details
+##  Project Details
 
 * **Name:** TaskBuddy
 * **Type:** Task Management Application
 
 ---
 
-## 🎯 Core Features
+##  Core Features
 
 ### 1️⃣ Task Input Form
 
