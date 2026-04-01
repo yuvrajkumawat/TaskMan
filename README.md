@@ -1,16 +1,42 @@
-# React + Vite
+# 📝 TaskBuddy - Task Management Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Details
 
-Currently, two official plugins are available:
+* **Name:** TaskBuddy
+* **Type:** Task Management Application
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🎯 Core Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 1️⃣ Task Input Form
 
-## Expanding the ESLint configuration
+* Add tasks using an input field and submit button
+* Validate input to prevent empty or duplicate tasks
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 2️⃣ Task List
+
+* Display tasks dynamically
+* Show task names with completion status
+* Mark tasks as completed
+* Delete tasks
+
+### 3️⃣ Persistent Data
+
+* Use **localStorage** to store tasks
+* Data persists even after page refresh
+
+### 4️⃣ Progress Tracker
+
+* Visual progress bar showing percentage of completed tasks
+* Updates dynamically as tasks are completed or pending
+
+### 5️⃣ Task History
+
+* View history of completed tasks
+* Restore tasks from history
+* Delete tasks permanently from history
+
+---
+
+
